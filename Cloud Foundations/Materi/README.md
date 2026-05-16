@@ -9,7 +9,7 @@
 
 ## 📋 Ringkasan Eksekutif
 
-Dokumen ini merangkum pemahaman komprehensif mengenai konsep dasar **Cloud Computing** dan **infrastruktur global AWS** yang telah saya pelajari. Materi mencakup definisi, model layanan, keuntungan bisnis, serta arsitektur infrastruktur global yang mendasari platform AWS.
+Dokumentasi ini merangkum pemahaman komprehensif mengenai konsep dasar **Cloud Computing** dan **infrastruktur global AWS** yang telah saya pelajari. Materi mencakup definisi, model layanan, keuntungan bisnis, serta arsitektur infrastruktur global yang mendasari platform AWS.
 
 ---
 
@@ -112,10 +112,10 @@ Terdapat tiga model layanan utama dalam Cloud Computing, dibedakan berdasarkan *
 
 ## Catatan Materi Lebih Lanjutan
 
-<a href= https://canva.link/cloudfoundations>➡️</a>
+<a href= https://canva.link/cloudfoundations>Klik Materi lebih lanjut ➡️</a>
 
 ---
 
-*📅 Dicatat pada: Mei 2024 | 🔄 Terakhir diperbarui: Mei 2024*
+*📅 Dicatat pada: Mei 2026 | 🔄 Terakhir diperbarui: Mei 2026*
 *✍️ Bagian dari seri catatan: **AWS Cloud Foundations***
 
